@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_sub_itens">Sub Ítens</string>
+    <string name="menu_configurations">Configurações</string>
+</resources>
